@@ -1,0 +1,36 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "dependabot/cargo/contracts/escrow/soroban-sdk-27.0.2",
+    "dependabot/npm_and_yarn/frontend/eslint-config-next-16.2.10",
+    "dependabot/npm_and_yarn/frontend/ledgerhq/hw-transport-webhid-6.36.0",
+    "dependabot/npm_and_yarn/frontend/react-19.2.7",
+    "dependabot/npm_and_yarn/frontend/react-dom-19.2.7",
+    "dependabot/npm_and_yarn/frontend/types/dompurify-3.2.0",
+    "feat/collaborative-jobs-535",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "dependabot/cargo/contracts/escrow/soroban-sdk-27.0.2": "main",
+    "dependabot/npm_and_yarn/frontend/eslint-config-next-16.2.10": "main",
+    "dependabot/npm_and_yarn/frontend/ledgerhq/hw-transport-webhid-6.36.0": "main",
+    "dependabot/npm_and_yarn/frontend/react-19.2.7": "main",
+    "dependabot/npm_and_yarn/frontend/react-dom-19.2.7": "main",
+    "dependabot/npm_and_yarn/frontend/types/dompurify-3.2.0": "main",
+    "feat/collaborative-jobs-535": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "dependabot/cargo/contracts/escrow/soroban-sdk-27.0.2",
+    "dependabot/npm_and_yarn/frontend/eslint-config-next-16.2.10",
+    "dependabot/npm_and_yarn/frontend/ledgerhq/hw-transport-webhid-6.36.0",
+    "dependabot/npm_and_yarn/frontend/react-19.2.7",
+    "dependabot/npm_and_yarn/frontend/react-dom-19.2.7",
+    "dependabot/npm_and_yarn/frontend/types/dompurify-3.2.0",
+    "feat/collaborative-jobs-535",
+    "origin"
+  ]
+}
